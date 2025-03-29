@@ -1,4 +1,5 @@
-# About Me
+![Tomanex](https://img.shields.io/badge/Tomanex-Time%20Paradox-Red?style=for-the-badge&logo=Github&logoColor=white&labelColor=%23181717&color=white)
+
 Just your unemployed guy on the internet.
 
 ## Socials
