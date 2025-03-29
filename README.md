@@ -1,4 +1,4 @@
-![Tomanex](https://img.shields.io/badge/Tomanex-Time%20Paradox-Red?style=for-the-badge&logo=Github&logoColor=white&labelColor=%23181717&color=white)
+[![Tomanex](https://img.shields.io/badge/Tomanex-Time%20Paradox-Red?style=for-the-badge&logo=Github&logoColor=white&labelColor=%23181717&color=white)](https://github.com/Tomanex)
 
 Just your unemployed guy on the internet.
 
