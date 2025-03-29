@@ -8,6 +8,7 @@ Just your unemployed guy on the internet.
 [![BlueSky Profile](https://img.shields.io/badge/BlueSky-%40tomanex.bsky.social-Red?style=for-the-badge&logo=Bluesky&logoColor=white&labelColor=%230285FF&color=grey)](https://bsky.app/profile/tomanex.bsky.social)
 [![CurseForge Profile](https://img.shields.io/badge/Curseforge-Tomanex-Red?style=for-the-badge&logo=Curseforge&logoColor=white&labelColor=%23F16436&color=grey)](https://www.curseforge.com/members/tomanex/projects)
 [![Modrinth Profile](https://img.shields.io/badge/Modrinth-Tomanex-Red?style=for-the-badge&logo=Modrinth&logoColor=white&labelColor=%2300AF5C&color=grey)](https://modrinth.com/user/Tomanex)
+[![Static Badge](https://img.shields.io/badge/Twitch-TomanexPlayz-Red?style=for-the-badge&logo=Twitch&logoColor=white&labelColor=%239146FF&color=grey)](https://www.twitch.tv/tomanexplayz)
 [![Static Badge](https://img.shields.io/badge/Steam-TomanexPlayz-Red?style=for-the-badge&logo=Steam&logoColor=white&labelColor=%230C1B42&color=grey)
 ](https://steamcommunity.com/id/Official_Tomanex_Playz/)
 ![XBox Profile](https://img.shields.io/badge/Xbox-TomanexPlayz-Red?style=for-the-badge&logo=YouTube%20Gaming&logoColor=white&labelColor=%23107C0F&color=grey)
