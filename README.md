@@ -6,6 +6,7 @@ Just your unemployed guy on the internet.
 [![YouTube Profile](https://img.shields.io/badge/YouTube-%40Tomanex-Red?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=%23FF0000&color=grey)](https://youtube.com/@tomanexplayz?si=Q8Fh23HxnNO5jloH)
 [![Discord Profile](https://img.shields.io/badge/Discord-Tomanex-Red?style=for-the-badge&logo=Discord&logoColor=white&labelColor=%235865F2&color=grey)](https://discord.gg/Ewm8aTTJ3K)
 [![BlueSky Profile](https://img.shields.io/badge/BlueSky-%40tomanex.bsky.social-Red?style=for-the-badge&logo=Bluesky&logoColor=white&labelColor=%230285FF&color=grey)](https://bsky.app/profile/tomanex.bsky.social)
+[![Reddit Page](https://img.shields.io/badge/Reddit-TomanexPlayz-Red?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=%23FF4500&color=grey)](https://www.reddit.com/user/TomanexPlayz/)
 [![Twitch Profile](https://img.shields.io/badge/Twitch-TomanexPlayz-Red?style=for-the-badge&logo=Twitch&logoColor=white&labelColor=%239146FF&color=grey)](https://www.twitch.tv/tomanexplayz)
 [![Steam Profile](https://img.shields.io/badge/Steam-TomanexPlayz-Red?style=for-the-badge&logo=Steam&logoColor=white&labelColor=%230C1B42&color=grey)
 ](https://steamcommunity.com/id/Official_Tomanex_Playz/)
