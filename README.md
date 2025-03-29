@@ -2,7 +2,7 @@
 
 Just your unemployed guy on the internet.
 
-## SOCIALS
+## MODDING SOCIALS
 [![YouTube Profile](https://img.shields.io/badge/YouTube-%40Tomanex-Red?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=%23FF0000&color=grey)](https://youtube.com/@tomanexplayz?si=Q8Fh23HxnNO5jloH)
 ![Discord Profile](https://img.shields.io/badge/Discord-Tomanex-Red?style=for-the-badge&logo=Discord&logoColor=white&labelColor=%235865F2&color=grey)
 [![BlueSky Profile](https://img.shields.io/badge/BlueSky-%40tomanex.bsky.social-Red?style=for-the-badge&logo=Bluesky&logoColor=white&labelColor=%230285FF&color=grey)](https://bsky.app/profile/tomanex.bsky.social)
