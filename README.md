@@ -8,7 +8,7 @@
 Just your unemployed guy on the internet.
 
 ## 🌐 Socials:
-[![YouTube Profile](https://img.shields.io/badge/YouTube-%40Tomanex-Red?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=%23FF0000&color=grey)](https://youtube.com/@tomanexplayz?si=Q8Fh23HxnNO5jloH)
+[![YouTube Profile](https://img.shields.io/badge/YouTube-%40Tomanex-Red?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=%23FF0000&color=grey)](https://youtube.com/@tomanexplayz)
 [![Discord Profile](https://img.shields.io/badge/Discord-Tomanex-Red?style=for-the-badge&logo=Discord&logoColor=white&labelColor=%235865F2&color=grey)](https://discord.gg/Ewm8aTTJ3K)
 [![Bluesky Profile](https://img.shields.io/badge/BlueSky-%40tomanex.bsky.social-Red?style=for-the-badge&logo=Bluesky&logoColor=white&labelColor=%230285FF&color=grey)](https://bsky.app/profile/tomanex.bsky.social)
 [![Reddit Page](https://img.shields.io/badge/Reddit-TomanexPlayz-Red?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=%23FF4500&color=grey)](https://www.reddit.com/user/TomanexPlayz/)
